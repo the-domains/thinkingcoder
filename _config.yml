@@ -1,0 +1,23 @@
+name: thinkingcoder
+favicon: null
+layout_spectrum: 0.6871076934039593
+typography_spectrum: 0.26756973611190915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4207778051495552
+  lightness: 0.39237059000879526
+  saturation: 0.7771433996967971
+  rhythmicContrast: 0.1611856932286173
+purpose: []
